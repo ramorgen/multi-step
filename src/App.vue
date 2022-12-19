@@ -6,6 +6,10 @@
          <nav-main></nav-main>
          <page-main class="mx-5 lg:mx-8"></page-main>
       </div>
+      <div class="attribution">
+         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+         Coded by <a href="#">R. Morgen</a>.
+      </div>
    </main>
 </template>
 
